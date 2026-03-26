@@ -108,6 +108,14 @@ network-port-scanner-gui/
 
 ---
 
+##  Screenshots
+
+###  Code 
+![Code Screenshot](code.png)
+
+###  Application Output
+![Output Screenshot](output.png)
+
 ##  Disclaimer
 
 This tool is for educational purposes only.
