@@ -1,11 +1,11 @@
-# 🔍 Network Port Scanner GUI
+#  Network Port Scanner GUI
 
 A lightweight and fast TCP port scanner with a graphical user interface built using Python and Tkinter.
 Built using socket programming and multithreading with real-time scanning updates.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Simple GUI – enter target host, start port, and end port
 * Multithreaded scanning – up to 500 concurrent threads for fast performance
@@ -17,14 +17,14 @@ Built using socket programming and multithreading with real-time scanning update
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 * Python 3.7 or higher
 * Tkinter (comes pre-installed with Python)
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/Srijeeta977/network-port-scanner-gui.git
@@ -33,7 +33,7 @@ cd network-port-scanner-gui
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ```bash
 python portscannergui.py
@@ -50,7 +50,7 @@ python portscannergui.py
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
 Target: 192.168.1.1 (192.168.1.1)
@@ -76,7 +76,7 @@ Open ports found: 13
 
 ---
 
-## 🔎 Detected Services
+##  Detected Services
 
 Common ports are labeled automatically:
 
@@ -98,7 +98,7 @@ Other ports are marked as **Unknown**.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 network-port-scanner-gui/
@@ -108,13 +108,13 @@ network-port-scanner-gui/
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This tool is for educational purposes only.
 Do NOT scan systems without proper authorization.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Srijeeta Dutta
