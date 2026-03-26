@@ -116,6 +116,14 @@ network-port-scanner-gui/
 ###  Application Output
 ![Output Screenshot](output.png)
 
+
+##  Demo Video
+
+Click below to watch/download the demo:
+
+[Watch Demo](demo.mp4)
+
+
 ##  Disclaimer
 
 This tool is for educational purposes only.
