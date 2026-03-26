@@ -123,6 +123,8 @@ Click below to watch/download the demo:
 
 [Watch Demo](demo.mp4)
 
+(Note: GitHub may not preview large videos. Click "View raw" to download and view.)
+
 
 ##  Disclaimer
 
